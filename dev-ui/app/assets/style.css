@@ -1,0 +1,23 @@
+.palette-block {
+  margin: 7px;
+  margin-top: 9px;
+  border: 2px solid #2c2c2c;
+  width: 1.9rem !important;
+  height: 1.9rem !important;
+}
+
+.palette-inVariable {
+  margin: 5px;
+  margin-top: 9px;
+  border: 2px solid #ca3030;
+  width: 2rem !important;
+  height: 1rem !important;
+}
+
+.palette-outVariable {
+  margin: 5px;
+  margin-top: 9px;
+  border: 2px solid #4b41d6;
+  width: 2rem !important;
+  height: 1rem !important;
+}
